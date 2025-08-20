@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/index-BSHcMb4I.js
 import{c as X,r as T}from"./index-Bd0qzbYW.js";/**
-========
-import{c as X,r as T}from"./index-BEtpOpsr.js";/**
->>>>>>>> 1d4feade4138af5794f221a4d47f357a85a9d1d4:assets/index-BMODlY3h.js
  * @license lucide-react v0.486.0 - ISC
  *
  * This source code is licensed under the ISC license.

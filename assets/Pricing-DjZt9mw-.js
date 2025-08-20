@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:assets/Pricing-DjZt9mw-.js
 import{c as o,j as e,B as h}from"./index-Bd0qzbYW.js";import{C as l,b as c,c as i,a as n}from"./card-Dqh8k1j3.js";/**
-========
-import{c as o,j as e,B as h}from"./index-BEtpOpsr.js";import{C as l,b as c,c as i,a as n}from"./card-CQ-SH6Fv.js";/**
->>>>>>>> 1d4feade4138af5794f221a4d47f357a85a9d1d4:assets/Pricing-C1f3uxbF.js
  * @license lucide-react v0.486.0 - ISC
  *
  * This source code is licensed under the ISC license.
