@@ -1,4 +1,4 @@
-import{r as N,f,j as e,g as v,c as b,h as x,i as h,U as y,M as I,B as C}from"./index-BM32kDhO.js";import{C as c,b as i,c as r,a as n}from"./card-DosRk87W.js";import{C as o}from"./circle-check-Dmn2yp0K.js";import{B as A}from"./book-open-D5T3Ct2J.js";import{E as w}from"./external-link-CBkjNQ5n.js";const m=N.forwardRef(({bsPrefix:l,bg:t="primary",pill:d=!1,text:s,className:a,as:p="span",...u},j)=>{const g=f(l,"badge");return e.jsx(p,{ref:j,...u,className:v(a,g,d&&"rounded-pill",s&&`text-${s}`,t&&`bg-${t}`)})});m.displayName="Badge";/**
+import{r as N,f,j as e,g as v,c as b,h as x,i as h,U as y,M as I,B as C}from"./index-CE4_5BrZ.js";import{C as c,b as i,c as r,a as n}from"./card-CCcK6E9v.js";import{C as o}from"./circle-check-4qmto0M6.js";import{B as A}from"./book-open-C-wbxFyk.js";import{E as w}from"./external-link-B9UXV2Fq.js";const m=N.forwardRef(({bsPrefix:l,bg:t="primary",pill:d=!1,text:s,className:a,as:p="span",...u},j)=>{const g=f(l,"badge");return e.jsx(p,{ref:j,...u,className:v(a,g,d&&"rounded-pill",s&&`text-${s}`,t&&`bg-${t}`)})});m.displayName="Badge";/**
  * @license lucide-react v0.486.0 - ISC
  *
  * This source code is licensed under the ISC license.
