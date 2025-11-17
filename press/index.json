@@ -43,5 +43,50 @@
         "category": "Institucional",
         "image": "/press/noimage.webp",
         "link": "/noticias/propuesta-educativa-22-09-25"
+    },
+    {
+        "id": 6,
+        "title": "Jornadas de Enseñanza Interactiva de la Estadística 2025",
+        "description": "Alumnos del Centro Educativo Causay abrirán las Jornadas de Enseñanza Interactiva de la Estadística, organizadas por la Universidad Nacional de San Luis.",
+        "date": "2025-10-22",
+        "category": "Educación",
+        "image": "/press/noimage.webp",
+        "link": "/noticias/ensenanza-interactiva-22-10-25"
+    },
+    {
+        "id": 7,
+        "title": "Poggi recibió a los alumnos del Causay que competirán en la Feria Internacional de Ciencias en Chile",
+        "description": "El Gobernador Claudio Poggi recibió a 11 estudiantes del Causay que presentarán el proyecto ‘CardioInsight’ en la Feria Internacional de Ciencias en Chile.",
+        "date": "2025-10-24",
+        "category": "Institucional",
+        "image": "/press/poggi-alumnos-24-10-25.webp",
+        "link": "/noticias/poggi-alumnos-24-10-25"
+    },
+    {
+        "id": 8,
+        "title": "Alumnos del Causay recibidos por autoridades educativas nacionales",
+        "description": "Estudiantes del Centro Educativo Causay fueron reconocidos por autoridades nacionales previo a su participación en la Feria Internacional de Ciencias en Chile.",
+        "date": "2025-10-31",
+        "category": "Institucional",
+        "image": "/press/alumnos-autoridades-nacionales-31-10-25.webp",
+        "link": "/noticias/alumnos-autoridades-nacionales-31-10-25"
+    },
+    {
+        "id": 9,
+        "title": "Convocatoria a evaluaciones para aspirantes al Plan de Becas 2026",
+        "description": "El Centro Educativo Causay convoca a aspirantes externos a evaluarse para acceder al Plan de Becas 2026, con cobertura del 100% de aranceles.",
+        "date": "2025-11-04",
+        "category": "Institucional",
+        "image": "/press/noimage.webp",
+        "link": "/noticias/convocatoria-becas-04-11-2025"
+    },
+    {
+        "id": 10,
+        "title": "Centro Educativo Causay recibe el 1° Premio Junior de la Academia Nacional de Ciencias Exactas, Físicas y Naturales",
+        "description": "El Centro Educativo Causay fue distinguido con el 1° Premio Junior por la Academia Nacional de Ciencias Exactas, Físicas y Naturales por su trabajo 'La Historia y el Futuro de la Cosecha Mendocina'.",
+        "date": "2025-11-12",
+        "category": "Logros",
+        "image": "/press/noimage.webp",
+        "link": "/noticias/primer-premio-junior-12-11-2025"
     }
 ]
