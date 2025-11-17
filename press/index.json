@@ -61,6 +61,7 @@
         "category": "Institucional",
         "image": "/press/poggi-alumnos-24-10-25.webp",
         "link": "/noticias/poggi-alumnos-24-10-25"
+<<<<<<< HEAD
     },
     {
         "id": 8,
@@ -88,5 +89,7 @@
         "category": "Logros",
         "image": "/press/noimage.webp",
         "link": "/noticias/primer-premio-junior-12-11-2025"
+=======
+>>>>>>> edab125f1ccb11699bc5bdb2cc13ee36fab18715
     }
 ]
