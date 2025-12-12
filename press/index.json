@@ -97,5 +97,50 @@
         "category": "Ciencia y Tecnología",
         "image": "/press/noimage.webp",
         "link": "/noticias/mateclubes-18-11-25"
+    },
+    {
+        "id": 12,
+        "title": "Mejoras acústicas en las aulas del Causay potencian el aprendizaje",
+        "description": "El Causay incorporó nubes acústicas y un sistema de sonido central para mejorar el ambiente educativo y el rendimiento de los estudiantes.",
+        "date": "2025-11-27",
+        "category": "Institucional",
+        "image": "/press/nubes-acusticas-27-11-25.webp",
+        "link": "/noticias/nubes-acusticas-27-11-25"
+    },
+    {
+        "id": 13,
+        "title": "Causay obtiene el Primer Lugar en la IX Expociencias Nacional Chile 2025",
+        "description": "El proyecto CardioInsight del Causay fue premiado con el máximo reconocimiento internacional en la Expociencias Chile 2025.",
+        "date": "2025-11-28",
+        "category": "Logros",
+        "image": "/press/expociencias-chile-28-11-25.webp",
+        "link": "/noticias/expociencias-chile-28-11-25"
+    },
+    {
+        "id": 14,
+        "title": "Actos de cierre del Ciclo Lectivo 2025",
+        "description": "El Causay anuncia fechas y horarios de los actos académicos y actividades que cierran el Ciclo Lectivo 2025.",
+        "date": "2025-12-04",
+        "category": "Institucional",
+        "image": "/press/noimage.webp",
+        "link": "/noticias/actos-04-12-25"
+    },
+    {
+        "id": 15,
+        "title": "Primer y segundo premio en el Concurso de Ensayo del IFDCSL",
+        "description": "Estudiantes de 5° año del Causay obtuvieron el primer y segundo premio en el Concurso de Ensayo del IFDCSL sobre inteligencia artificial.",
+        "date": "2025-12-09",
+        "category": "Logros",
+        "image": "/press/noimage.webp",
+        "link": "/noticias/concurso-ifdcsl-09-12-25"
+    },
+    {
+        "id": 16,
+        "title": "Acto Artístico de Cierre del Ciclo Lectivo 2025",
+        "description": "Transmisión en vivo del Acto Artístico de cierre del Ciclo Lectivo 2025 del Centro Educativo Causay.",
+        "date": "2025-12-12",
+        "category": "Institucional",
+        "image": "/press/noimage.webp",
+        "link": "/noticias/acto-2025-12-12-2025"
     }
 ]
