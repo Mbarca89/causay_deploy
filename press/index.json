@@ -385,6 +385,7 @@
         "category": "Institucional",
         "image": "/press/noimage.webp",
         "link": "/noticias/vacaciones-invierno-04-07-2025"
+<<<<<<< HEAD
     },
     {
         "id": 44,
@@ -430,5 +431,7 @@
         "category": "Institucional",
         "image": "/press/inicio-ciclo-lectivo-2026.webp",
         "link": "/noticias/inicio-ciclo-lectivo-2026"
+=======
+>>>>>>> d6d1516f6cb6d3b7e7fc48f520767d4046acc179
     }
 ]
